@@ -26,3 +26,5 @@ Las editoriales son entidades independientes. Si una editorial cambia de nombre,
 ![Imagen, tabla (3NF) categoriasos](./Capturas/(3NF)tabla%20categorias.png)
 
 En la tabla original, el texto, Infantil o Romance se repetiría en cada libro y al crear una tabla maestra, ahorrare espacio y evito errores 
+
+![Imagen](./Capturas/Captura%20desde%202026-04-22%2012-57-26.png)
