@@ -1,0 +1,2 @@
+![Imagen, tabla libros](./Capturas/tienda%20libros.png)
+Analice la tabla inicial que contiene información de libros, autores, clientes, pedidos y transacciones. y le fui aplicando el proceso de normalización hasta la Tercera Forma Normal (3FN).
